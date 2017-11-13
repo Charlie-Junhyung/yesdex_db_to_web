@@ -1,0 +1,60 @@
+* {
+  font: 'dotum';
+}
+body {
+  width: 1600px;
+  margin: 25px auto;
+  background: #E8E8EF;
+}
+td {
+  padding: 5px 10px 3px;
+  text-align: center;
+}
+
+.top-bar {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#select_date {
+  width: 100px;
+  background: #34c5f4;
+  color: #ffffff;
+  text-decoration-color: #ffffff;
+}
+
+#download {
+  text-decoration:none;
+	font-family:Arial;
+	background:#2ef1ff;
+	background:-o-linear-gradient(90deg, #2ef1ff, #3b9ceb);
+	background:-moz-linear-gradient( center top, #2ef1ff 5%, #3b9ceb 100% );
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #2ef1ff), color-stop(1, #3b9ceb) );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2ef1ff', endColorstr='#3b9ceb');
+	background:-webkit-linear-gradient(#2ef1ff, #3b9ceb);
+	background:-ms-linear-gradient(#2ef1ff, #3b9ceb);
+	background:linear-gradient(#2ef1ff, #3b9ceb);
+	text-indent:0px;
+	line-height:30px;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius:15px;
+	text-align:center;
+	vertical-align:middle;
+	display:inline-block;
+	font-size:18px;
+	color:#ffffff;
+	width:100px;
+	height:30px;
+	padding:0px;
+	text-shadow:#6daac2 2px 2px 0px;
+}
+
+.read_data {
+  margin-left: auto;
+  margin-right: auto;
+  border-width: thin;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
